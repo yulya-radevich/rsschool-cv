@@ -17,6 +17,7 @@
 * Git
 * HTML
 * CSS
+* JS
 ## Code examples
 ``` javascript
 let n = 10; // Сколько элементов хотим получить
@@ -29,6 +30,8 @@ console.log(fibonacci.slice(0,n));
 // slice отрезает от массива первые n элементов, если n < 2};
 ```
 ## Education
-* **student at Itstep academy**
+* **Itstep academy 2021**
+* **RS School 2023**
+
 ## English
-**A1 - Elementary**
+**Pre-intermediate**
