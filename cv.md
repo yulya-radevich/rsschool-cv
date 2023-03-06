@@ -1,5 +1,5 @@
 ## Yulia Radevich
-
+![Photo](https://sun9-59.userapi.com/impg/cjDoer9bJD19-EUQpr21hTMGqi2jgd0ERtejew/E9HG9WRMTwo.jpg?size=720x880&quality=96&sign=f18a4d8f88f20f46417dc5a503a4e881&type=album)
 ### Contact Info:
 
 | Type of contact  | data |
@@ -7,7 +7,7 @@
 | mobile number | +375292096497  |
 + Email: [yulya.radevich@inbox.ru](yulya.radevich@inbox.ru)
 + Github: [https://github.com/yulya-radevich](https://github.com/yulya-radevich)
-
++ Discord: YuliaR(@yulya-radevich)
 
 ## Summary
 
@@ -16,8 +16,8 @@
 ## Skills
 * Git
 * HTML
-* CSS
-* JS
+* CSS/SCSS
+* JavaScript
 ## Code examples
 ``` javascript
 let n = 10; // Сколько элементов хотим получить
